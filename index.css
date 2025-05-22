@@ -116,3 +116,10 @@ body{
     width: 100px;
     height: auto;
 }
+@media (max-width: 768px) {
+.search button{
+    padding: 16px;
+}
+.search input{
+    width: 250px;
+}}

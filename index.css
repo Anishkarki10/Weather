@@ -126,4 +126,7 @@ body{
     width: 190px;
     margin-right: 10px;
     padding: 10px 15px;
+}
+.details p{
+    font-size: 15px;
 }}

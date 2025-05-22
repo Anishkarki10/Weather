@@ -45,9 +45,3 @@ async function checkWeather(city){
 searchBtn.addEventListener("click",()=>{
     checkWeather(searchBox.value);
 })
-if(searchBox.value == null){
-    error1.innerHTML="Enter any city name"
-}else{
-    error1.innerHTML=""
-
-}

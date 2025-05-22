@@ -94,3 +94,25 @@ body{
 .topic h1{
     margin-bottom: 20px;
 }
+.made {
+ text-decoration: none;   
+ color: black;
+
+
+}
+
+.atag{
+    text-decoration: none;
+    margin-bottom: 20px;
+    text-align: right;
+
+}
+.atag button{
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+.topic img{
+    width: 100px;
+    height: auto;
+}
